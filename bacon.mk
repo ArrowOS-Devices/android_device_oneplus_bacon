@@ -69,7 +69,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     fstab.bacon \
     init.bacon.rc \
-    init.fz.rc \
     init.qcom.usb.rc \
     init.recovery.bacon.rc \
     ueventd.bacon.rc
